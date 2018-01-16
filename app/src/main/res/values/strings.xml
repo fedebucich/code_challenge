@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contact_id_extra">id</string>
+    <string name="extra_info_detail">Home</string>
+    <string name="title_phone">Phone</string>
+    <string name="extra_info_mobile">Mobile</string>
+    <string name="extra_info_work">Work</string>
+    <string name="empty_extra_info" />
+    <string name="title_address">Address</string>
+    <string name="title_birthdate">Birthdate</string>
+    <string name="title_email">Email</string>
+</resources>
